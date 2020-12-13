@@ -1,0 +1,1 @@
+// common/const.js 存放公共的常量
